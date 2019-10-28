@@ -1,0 +1,9 @@
+20180321:200321 _GET request 
+ loglist => yes 
+20180321:200321 _GET request 
+ srvinfo => yes 
+20180321:200321 _GET request 
+ csvtbllist => yes 
+20180321:200321 _GET request 
+ archlist => yes 
+20180321:200321 csv_archive_select_list: using C:/EMR/xampp/htdocs/openemr/sites/default\edi\history\archive

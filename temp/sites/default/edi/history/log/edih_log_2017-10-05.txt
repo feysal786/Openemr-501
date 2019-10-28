@@ -1,0 +1,24 @@
+20171005:191001 EDI_History Setup should not overwrite existing data.<br>
+Setup: directory C:/EMR/xampp/htdocs/openemr/sites/default\edi<br>
+created folder C:/EMR/xampp/htdocs/openemr/sites/default\edi\history<br>
+created folder C:/EMR/xampp/htdocs/openemr/sites/default\edi\history\csv<br>
+created folder C:/EMR/xampp/htdocs/openemr/sites/default\edi\history\archive<br>
+created folder C:/EMR/xampp/htdocs/openemr/sites/default\edi\history\log<br>
+created folder C:/EMR/xampp/htdocs/openemr/sites/default\edi\history\tmp
+folder for f837 exists C:/EMR/xampp/htdocs/openemr/sites/default\edi<br>
+created type folder C:/EMR/xampp/htdocs/openemr/sites/default\edi\history\f997<br>
+created type folder C:/EMR/xampp/htdocs/openemr/sites/default\edi\history\f276<br>
+created type folder C:/EMR/xampp/htdocs/openemr/sites/default\edi\history\f277<br>
+created type folder C:/EMR/xampp/htdocs/openemr/sites/default\edi\history\f270<br>
+created type folder C:/EMR/xampp/htdocs/openemr/sites/default\edi\history\f271<br>
+created type folder C:/EMR/xampp/htdocs/openemr/sites/default\edi\history\f278<br>
+
+20171005:191001 _GET request 
+ csvtbllist => yes 
+20171005:191001 _GET request 
+ archlist => yes 
+20171005:191001 csv_archive_select_list: using C:/EMR/xampp/htdocs/openemr/sites/default\edi\history\archive
+20171005:191001 _GET request 
+ loglist => yes 
+20171005:191001 _GET request 
+ srvinfo => yes 

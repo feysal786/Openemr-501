@@ -1,0 +1,76 @@
+[29-Apr-2018 15:44:46 UTC] PHP Notice:  Undefined index: access_group in /home/uvepbr3plx3y/public_html/openemr/interface/usergroup/usergroup_admin.php on line 30
+[29-Apr-2018 15:44:46 UTC] PHP Notice:  Undefined index: basePath in /home/uvepbr3plx3y/public_html/openemr/library/core/src/Header.php on line 158
+[01-May-2018 09:18:12 UTC] PHP Notice:  Undefined index: basePath in /home/uvepbr3plx3y/public_html/openemr/library/core/src/Header.php on line 158
+[01-May-2018 09:18:14 UTC] PHP Notice:  Undefined index: basePath in /home/uvepbr3plx3y/public_html/openemr/library/core/src/Header.php on line 158
+[01-May-2018 09:18:14 UTC] PHP Notice:  Undefined variable: form_id in /home/uvepbr3plx3y/public_html/openemr/library/validation/validation_script.js.php on line 67
+[01-May-2018 09:18:22 UTC] PHP Notice:  Undefined index: basePath in /home/uvepbr3plx3y/public_html/openemr/library/core/src/Header.php on line 158
+[01-May-2018 09:18:23 UTC] PHP Notice:  Undefined index: basePath in /home/uvepbr3plx3y/public_html/openemr/library/core/src/Header.php on line 158
+[01-May-2018 09:18:23 UTC] PHP Notice:  Undefined variable: form_id in /home/uvepbr3plx3y/public_html/openemr/library/validation/validation_script.js.php on line 67
+[01-May-2018 09:21:59 UTC] PHP Notice:  Undefined index: basePath in /home/uvepbr3plx3y/public_html/openemr/library/core/src/Header.php on line 158
+[01-May-2018 09:22:00 UTC] PHP Notice:  Undefined index: basePath in /home/uvepbr3plx3y/public_html/openemr/library/core/src/Header.php on line 158
+[01-May-2018 09:22:00 UTC] PHP Notice:  Undefined variable: form_id in /home/uvepbr3plx3y/public_html/openemr/library/validation/validation_script.js.php on line 67
+[01-May-2018 09:22:06 UTC] PHP Notice:  Undefined index: basePath in /home/uvepbr3plx3y/public_html/openemr/library/core/src/Header.php on line 158
+[01-May-2018 09:22:07 UTC] PHP Notice:  Undefined index: basePath in /home/uvepbr3plx3y/public_html/openemr/library/core/src/Header.php on line 158
+[01-May-2018 09:22:07 UTC] PHP Notice:  Undefined variable: form_id in /home/uvepbr3plx3y/public_html/openemr/library/validation/validation_script.js.php on line 67
+[01-May-2018 09:56:01 UTC] PHP Notice:  Undefined index: access_group in /home/uvepbr3plx3y/public_html/openemr/interface/usergroup/usergroup_admin.php on line 30
+[01-May-2018 09:56:01 UTC] PHP Notice:  Undefined index: basePath in /home/uvepbr3plx3y/public_html/openemr/library/core/src/Header.php on line 158
+[01-May-2018 09:56:03 UTC] PHP Notice:  Undefined index: basePath in /home/uvepbr3plx3y/public_html/openemr/library/core/src/Header.php on line 158
+[01-May-2018 09:56:03 UTC] PHP Notice:  Undefined variable: form_id in /home/uvepbr3plx3y/public_html/openemr/library/validation/validation_script.js.php on line 67
+[01-May-2018 09:56:07 UTC] PHP Notice:  Undefined index: basePath in /home/uvepbr3plx3y/public_html/openemr/library/core/src/Header.php on line 158
+[01-May-2018 09:56:07 UTC] PHP Notice:  Undefined variable: form_id in /home/uvepbr3plx3y/public_html/openemr/library/validation/validation_script.js.php on line 67
+[01-May-2018 09:56:07 UTC] PHP Notice:  Undefined variable: grace_time1 in /home/uvepbr3plx3y/public_html/openemr/interface/usergroup/user_admin.php on line 249
+[01-May-2018 09:56:16 UTC] PHP Notice:  Undefined index: access_group in /home/uvepbr3plx3y/public_html/openemr/interface/usergroup/usergroup_admin.php on line 30
+[01-May-2018 09:56:16 UTC] PHP Notice:  Undefined index: basePath in /home/uvepbr3plx3y/public_html/openemr/library/core/src/Header.php on line 158
+[01-May-2018 09:56:19 UTC] PHP Notice:  Undefined index: basePath in /home/uvepbr3plx3y/public_html/openemr/library/core/src/Header.php on line 158
+[01-May-2018 09:56:19 UTC] PHP Notice:  Undefined variable: form_id in /home/uvepbr3plx3y/public_html/openemr/library/validation/validation_script.js.php on line 67
+[01-May-2018 09:56:19 UTC] PHP Notice:  Undefined variable: grace_time1 in /home/uvepbr3plx3y/public_html/openemr/interface/usergroup/user_admin.php on line 249
+[13-May-2018 12:29:50 UTC] PHP Notice:  Undefined index: access_group in /home/uvepbr3plx3y/public_html/openemr/interface/usergroup/usergroup_admin.php on line 30
+[13-May-2018 12:29:50 UTC] PHP Notice:  Undefined index: basePath in /home/uvepbr3plx3y/public_html/openemr/library/core/src/Header.php on line 158
+[13-May-2018 12:29:58 UTC] PHP Notice:  Undefined index: basePath in /home/uvepbr3plx3y/public_html/openemr/library/core/src/Header.php on line 158
+[13-May-2018 12:29:58 UTC] PHP Notice:  Undefined variable: form_id in /home/uvepbr3plx3y/public_html/openemr/library/validation/validation_script.js.php on line 67
+[13-May-2018 12:29:58 UTC] PHP Notice:  Undefined variable: grace_time1 in /home/uvepbr3plx3y/public_html/openemr/interface/usergroup/user_admin.php on line 249
+[13-May-2018 12:30:34 UTC] PHP Notice:  Undefined index: access_group in /home/uvepbr3plx3y/public_html/openemr/interface/usergroup/usergroup_admin.php on line 30
+[13-May-2018 12:30:34 UTC] PHP Notice:  Undefined index: basePath in /home/uvepbr3plx3y/public_html/openemr/library/core/src/Header.php on line 158
+[13-May-2018 12:30:40 UTC] PHP Notice:  Undefined index: basePath in /home/uvepbr3plx3y/public_html/openemr/library/core/src/Header.php on line 158
+[13-May-2018 12:30:40 UTC] PHP Notice:  Undefined variable: form_id in /home/uvepbr3plx3y/public_html/openemr/library/validation/validation_script.js.php on line 67
+[13-May-2018 12:30:40 UTC] PHP Notice:  Undefined variable: grace_time1 in /home/uvepbr3plx3y/public_html/openemr/interface/usergroup/user_admin.php on line 249
+[13-May-2018 12:31:11 UTC] PHP Notice:  Undefined index: access_group in /home/uvepbr3plx3y/public_html/openemr/interface/usergroup/usergroup_admin.php on line 30
+[13-May-2018 12:31:11 UTC] PHP Notice:  Undefined index: basePath in /home/uvepbr3plx3y/public_html/openemr/library/core/src/Header.php on line 158
+[13-May-2018 12:31:15 UTC] PHP Notice:  Undefined index: basePath in /home/uvepbr3plx3y/public_html/openemr/library/core/src/Header.php on line 158
+[13-May-2018 12:31:15 UTC] PHP Notice:  Undefined variable: form_id in /home/uvepbr3plx3y/public_html/openemr/library/validation/validation_script.js.php on line 67
+[13-May-2018 12:31:15 UTC] PHP Notice:  Undefined variable: grace_time1 in /home/uvepbr3plx3y/public_html/openemr/interface/usergroup/user_admin.php on line 249
+[13-May-2018 12:31:58 UTC] PHP Notice:  Undefined index: access_group in /home/uvepbr3plx3y/public_html/openemr/interface/usergroup/usergroup_admin.php on line 30
+[13-May-2018 12:31:58 UTC] PHP Notice:  Undefined index: basePath in /home/uvepbr3plx3y/public_html/openemr/library/core/src/Header.php on line 158
+[13-May-2018 12:32:01 UTC] PHP Notice:  Undefined index: basePath in /home/uvepbr3plx3y/public_html/openemr/library/core/src/Header.php on line 158
+[13-May-2018 12:32:01 UTC] PHP Notice:  Undefined variable: form_id in /home/uvepbr3plx3y/public_html/openemr/library/validation/validation_script.js.php on line 67
+[13-May-2018 12:32:01 UTC] PHP Notice:  Undefined variable: grace_time1 in /home/uvepbr3plx3y/public_html/openemr/interface/usergroup/user_admin.php on line 249
+[13-May-2018 12:32:38 UTC] PHP Notice:  Undefined index: authorized in /home/uvepbr3plx3y/public_html/openemr/interface/usergroup/usergroup_admin.php on line 158
+[13-May-2018 12:32:38 UTC] PHP Notice:  Undefined index: calendar in /home/uvepbr3plx3y/public_html/openemr/interface/usergroup/usergroup_admin.php on line 160
+[13-May-2018 12:32:39 UTC] PHP Notice:  Undefined index: access_group in /home/uvepbr3plx3y/public_html/openemr/interface/usergroup/usergroup_admin.php on line 30
+[13-May-2018 12:32:39 UTC] PHP Notice:  Undefined index: basePath in /home/uvepbr3plx3y/public_html/openemr/library/core/src/Header.php on line 158
+[13-May-2018 12:32:45 UTC] PHP Notice:  Undefined index: basePath in /home/uvepbr3plx3y/public_html/openemr/library/core/src/Header.php on line 158
+[13-May-2018 12:32:45 UTC] PHP Notice:  Undefined variable: form_id in /home/uvepbr3plx3y/public_html/openemr/library/validation/validation_script.js.php on line 67
+[13-May-2018 12:32:45 UTC] PHP Notice:  Undefined variable: grace_time1 in /home/uvepbr3plx3y/public_html/openemr/interface/usergroup/user_admin.php on line 249
+[13-May-2018 12:33:02 UTC] PHP Notice:  Undefined index: authorized in /home/uvepbr3plx3y/public_html/openemr/interface/usergroup/usergroup_admin.php on line 158
+[13-May-2018 12:33:02 UTC] PHP Notice:  Undefined index: calendar in /home/uvepbr3plx3y/public_html/openemr/interface/usergroup/usergroup_admin.php on line 160
+[13-May-2018 12:33:02 UTC] PHP Notice:  Undefined index: access_group in /home/uvepbr3plx3y/public_html/openemr/interface/usergroup/usergroup_admin.php on line 30
+[13-May-2018 12:33:02 UTC] PHP Notice:  Undefined index: basePath in /home/uvepbr3plx3y/public_html/openemr/library/core/src/Header.php on line 158
+[13-May-2018 12:33:18 UTC] PHP Notice:  Undefined index: access_group in /home/uvepbr3plx3y/public_html/openemr/interface/usergroup/usergroup_admin.php on line 30
+[13-May-2018 12:33:18 UTC] PHP Notice:  Undefined index: basePath in /home/uvepbr3plx3y/public_html/openemr/library/core/src/Header.php on line 158
+[13-May-2018 12:33:22 UTC] PHP Notice:  Undefined index: basePath in /home/uvepbr3plx3y/public_html/openemr/library/core/src/Header.php on line 158
+[13-May-2018 12:33:22 UTC] PHP Notice:  Undefined variable: form_id in /home/uvepbr3plx3y/public_html/openemr/library/validation/validation_script.js.php on line 67
+[13-May-2018 12:33:22 UTC] PHP Notice:  Undefined variable: grace_time1 in /home/uvepbr3plx3y/public_html/openemr/interface/usergroup/user_admin.php on line 249
+[13-May-2018 12:33:29 UTC] PHP Notice:  Undefined index: access_group in /home/uvepbr3plx3y/public_html/openemr/interface/usergroup/usergroup_admin.php on line 30
+[13-May-2018 12:33:29 UTC] PHP Notice:  Undefined index: basePath in /home/uvepbr3plx3y/public_html/openemr/library/core/src/Header.php on line 158
+[31-May-2018 11:38:57 UTC] 
+[21-Jun-2018 11:45:38 UTC] Executing as user:openemr_zeest Statement failed:INSERT INTO users_secure (id,username,password,salt,last_update) VALUES (?,?,?,?,NOW()) :Duplicate entry '43' for key 'PRIMARY'==>/home/uvepbr3plx3y/public_html/openemr/library/authentication/password_change.php at 145:initializePassword
+[21-Jun-2018 11:45:58 UTC] 
+[22-Sep-2018 15:45:08 UTC] 
+[23-Sep-2018 04:07:32 UTC] 
+[29-Sep-2018 16:05:01 Asia/Karachi] 
+[01-Oct-2018 13:28:08 Asia/Karachi] Incorrect password!
+[01-Oct-2018 13:28:18 Asia/Karachi] 
+[03-Oct-2018 18:54:33 Asia/Karachi] 
+[04-Oct-2018 20:56:50 Asia/Karachi] 
+[17-Oct-2018 22:15:46 Asia/Karachi] 
+[17-Oct-2018 22:26:50 Asia/Karachi] 

@@ -1,0 +1,27 @@
+[30-Apr-2018 07:04:00 UTC] PHP Notice:  Undefined index: basePath in /home/uvepbr3plx3y/public_html/openemr/library/core/src/Header.php on line 158
+[01-May-2018 09:18:30 UTC] PHP Warning:  mkdir(): No such file or directory in /home/uvepbr3plx3y/public_html/openemr/interface/main/backup.php on line 568
+[01-May-2018 09:18:30 UTC] PHP Warning:  chmod(): No such file or directory in /home/uvepbr3plx3y/public_html/openemr/interface/main/backup.php on line 569
+[01-May-2018 09:25:05 UTC] PHP Warning:  mkdir(): No such file or directory in /home/uvepbr3plx3y/public_html/openemr/interface/main/backup.php on line 568
+[01-May-2018 09:25:05 UTC] PHP Warning:  chmod(): No such file or directory in /home/uvepbr3plx3y/public_html/openemr/interface/main/backup.php on line 569
+[01-May-2018 09:45:33 UTC] PHP Notice:  Undefined index: language_menu_showall in /home/uvepbr3plx3y/public_html/openemr/interface/globals.php on line 390
+[01-May-2018 09:45:33 UTC] PHP Notice:  Undefined index: translate_no_safe_apostrophe in /home/uvepbr3plx3y/public_html/openemr/library/translation.inc.php on line 46
+[01-May-2018 09:45:33 UTC] PHP Notice:  Undefined index: translate_no_safe_apostrophe in /home/uvepbr3plx3y/public_html/openemr/library/translation.inc.php on line 46
+[01-May-2018 09:45:34 UTC] PHP Notice:  Undefined index: use_active_directory in /home/uvepbr3plx3y/public_html/openemr/library/auth.inc on line 119
+[01-May-2018 09:45:34 UTC] PHP Notice:  Undefined index: authProvider in /home/uvepbr3plx3y/public_html/openemr/library/auth.inc on line 84
+[01-May-2018 09:45:34 UTC] PHP Notice:  Undefined index: enable_auditlog_encryption in /home/uvepbr3plx3y/public_html/openemr/library/log.inc on line 19
+[01-May-2018 09:45:40 UTC] PHP Notice:  Undefined index: language_menu_showall in /home/uvepbr3plx3y/public_html/openemr/interface/globals.php on line 390
+[01-May-2018 09:45:40 UTC] PHP Notice:  Undefined index: translate_no_safe_apostrophe in /home/uvepbr3plx3y/public_html/openemr/library/translation.inc.php on line 46
+[01-May-2018 09:45:40 UTC] PHP Notice:  Undefined index: translate_no_safe_apostrophe in /home/uvepbr3plx3y/public_html/openemr/library/translation.inc.php on line 46
+[01-May-2018 09:45:40 UTC] PHP Notice:  Undefined index: use_active_directory in /home/uvepbr3plx3y/public_html/openemr/library/auth.inc on line 119
+[01-May-2018 09:45:40 UTC] PHP Notice:  Undefined index: authProvider in /home/uvepbr3plx3y/public_html/openemr/library/auth.inc on line 84
+[01-May-2018 09:45:40 UTC] PHP Notice:  Undefined index: enable_auditlog_encryption in /home/uvepbr3plx3y/public_html/openemr/library/log.inc on line 19
+[01-May-2018 09:45:47 UTC] PHP Notice:  Undefined index: language_menu_showall in /home/uvepbr3plx3y/public_html/openemr/interface/globals.php on line 390
+[01-May-2018 09:45:47 UTC] PHP Notice:  Undefined index: translate_no_safe_apostrophe in /home/uvepbr3plx3y/public_html/openemr/library/translation.inc.php on line 46
+[01-May-2018 09:45:47 UTC] PHP Notice:  Undefined index: translate_no_safe_apostrophe in /home/uvepbr3plx3y/public_html/openemr/library/translation.inc.php on line 46
+[01-May-2018 09:45:47 UTC] PHP Notice:  Undefined index: use_active_directory in /home/uvepbr3plx3y/public_html/openemr/library/auth.inc on line 119
+[01-May-2018 09:45:47 UTC] PHP Notice:  Undefined index: authProvider in /home/uvepbr3plx3y/public_html/openemr/library/auth.inc on line 84
+[01-May-2018 09:45:47 UTC] PHP Notice:  Undefined index: enable_auditlog_encryption in /home/uvepbr3plx3y/public_html/openemr/library/log.inc on line 19
+[06-May-2018 15:23:04 UTC] PHP Warning:  mkdir(): No such file or directory in /home/uvepbr3plx3y/public_html/openemr/interface/main/backup.php on line 568
+[06-May-2018 15:23:04 UTC] PHP Warning:  chmod(): No such file or directory in /home/uvepbr3plx3y/public_html/openemr/interface/main/backup.php on line 569
+[07-May-2018 05:11:03 UTC] PHP Warning:  mkdir(): No such file or directory in /home/uvepbr3plx3y/public_html/openemr/interface/main/backup.php on line 568
+[07-May-2018 05:11:03 UTC] PHP Warning:  chmod(): No such file or directory in /home/uvepbr3plx3y/public_html/openemr/interface/main/backup.php on line 569

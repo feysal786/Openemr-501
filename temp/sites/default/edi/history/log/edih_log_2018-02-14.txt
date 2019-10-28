@@ -1,0 +1,13 @@
+20180214:200216 _GET request 
+ srvinfo => yes 
+20180214:200217 _GET request 
+ csvtbllist => yes 
+20180214:200217 _GET request 
+ loglist => yes 
+20180214:200217 _GET request 
+ archlist => yes 
+20180214:200217 csv_archive_select_list: using C:/EMR/xampp/htdocs/openemr/sites/default\edi\history\archive
+20180214:200228 _POST request 
+ NewFiles => ProcessNew 
+20180214:200228 User: 192.168.100.10 - February 14, 2018, 8:41 pm
+20180214:200228 edih_upload_files: _FILES error  No file was uploaded

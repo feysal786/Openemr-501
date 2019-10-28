@@ -1,0 +1,13 @@
+[03-May-2018 11:21:56 UTC] PHP Notice:  Undefined index: m in /home/uvepbr3plx3y/public_html/openemr/interface/language/language.php on line 21
+[03-May-2018 11:21:56 UTC] PHP Notice:  Undefined index: edit in /home/uvepbr3plx3y/public_html/openemr/interface/language/language.php on line 22
+[03-May-2018 11:21:56 UTC] PHP Notice:  Undefined index: m in /home/uvepbr3plx3y/public_html/openemr/interface/language/language.php on line 37
+[03-May-2018 11:30:56 UTC] PHP Notice:  Undefined index: m in /home/uvepbr3plx3y/public_html/openemr/interface/language/language.php on line 21
+[03-May-2018 11:30:56 UTC] PHP Notice:  Undefined index: edit in /home/uvepbr3plx3y/public_html/openemr/interface/language/language.php on line 22
+[03-May-2018 11:30:56 UTC] PHP Notice:  Undefined index: m in /home/uvepbr3plx3y/public_html/openemr/interface/language/language.php on line 37
+[03-May-2018 11:31:01 UTC] PHP Notice:  Undefined index: edit in /home/uvepbr3plx3y/public_html/openemr/interface/language/language.php on line 22
+[03-May-2018 11:31:01 UTC] PHP Notice:  Undefined index: add in /home/uvepbr3plx3y/public_html/openemr/interface/language/lang_language.php on line 3
+[03-May-2018 11:31:01 UTC] PHP Notice:  Undefined variable: val_lang_code in /home/uvepbr3plx3y/public_html/openemr/interface/language/lang_language.php on line 39
+[03-May-2018 11:31:01 UTC] PHP Notice:  Undefined variable: val_lang_name in /home/uvepbr3plx3y/public_html/openemr/interface/language/lang_language.php on line 43
+[03-May-2018 11:31:10 UTC] PHP Notice:  Undefined index: edit in /home/uvepbr3plx3y/public_html/openemr/interface/language/language.php on line 22
+[03-May-2018 11:31:10 UTC] PHP Notice:  Undefined index: check in /home/uvepbr3plx3y/public_html/openemr/interface/language/lang_manage.php on line 2
+[03-May-2018 11:31:10 UTC] PHP Notice:  Undefined index: synchronize in /home/uvepbr3plx3y/public_html/openemr/interface/language/lang_manage.php on line 2

@@ -1,0 +1,13 @@
+[30-Apr-2018 06:30:02 UTC] PHP Notice:  Undefined index: method in /home/uvepbr3plx3y/public_html/openemr/interface/forms_admin/forms_admin.php on line 16
+[30-Apr-2018 06:30:02 UTC] PHP Notice:  Undefined index: method in /home/uvepbr3plx3y/public_html/openemr/interface/forms_admin/forms_admin.php on line 18
+[30-Apr-2018 06:30:02 UTC] PHP Notice:  Undefined index: method in /home/uvepbr3plx3y/public_html/openemr/interface/forms_admin/forms_admin.php on line 20
+[30-Apr-2018 06:30:02 UTC] PHP Notice:  Undefined index: method in /home/uvepbr3plx3y/public_html/openemr/interface/forms_admin/forms_admin.php on line 27
+[30-Apr-2018 06:30:02 UTC] PHP Notice:  Undefined variable: err in /home/uvepbr3plx3y/public_html/openemr/interface/forms_admin/forms_admin.php on line 58
+[30-Apr-2018 06:30:19 UTC] PHP Notice:  Undefined variable: err in /home/uvepbr3plx3y/public_html/openemr/interface/forms_admin/forms_admin.php on line 58
+[30-Apr-2018 06:31:23 UTC] PHP Notice:  Undefined variable: err in /home/uvepbr3plx3y/public_html/openemr/interface/forms_admin/forms_admin.php on line 58
+[30-Apr-2018 06:31:31 UTC] PHP Notice:  Undefined variable: err in /home/uvepbr3plx3y/public_html/openemr/interface/forms_admin/forms_admin.php on line 58
+[30-Apr-2018 06:32:07 UTC] PHP Notice:  Undefined index: method in /home/uvepbr3plx3y/public_html/openemr/interface/forms_admin/forms_admin.php on line 16
+[30-Apr-2018 06:32:07 UTC] PHP Notice:  Undefined index: method in /home/uvepbr3plx3y/public_html/openemr/interface/forms_admin/forms_admin.php on line 18
+[30-Apr-2018 06:32:07 UTC] PHP Notice:  Undefined index: method in /home/uvepbr3plx3y/public_html/openemr/interface/forms_admin/forms_admin.php on line 20
+[30-Apr-2018 06:32:07 UTC] PHP Notice:  Undefined index: method in /home/uvepbr3plx3y/public_html/openemr/interface/forms_admin/forms_admin.php on line 27
+[30-Apr-2018 06:32:07 UTC] PHP Notice:  Undefined variable: err in /home/uvepbr3plx3y/public_html/openemr/interface/forms_admin/forms_admin.php on line 58
